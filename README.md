@@ -9,7 +9,7 @@ I have put the interesting part of the mvn clean install output
 ```
 [WARNING] Can't find/open file /Users/sbadjoudj/tp/missing-translation-checker-maven-plugin-usage/missing-translation-checker-maven-plugin-usage/src/main/resources/MessagesBundle_de_US.properties
 
-[WARNING] [Missing translations for /MessagesBundle_fr_FR.properties]
+[WARNING] [Missing translations for MessagesBundle_fr_FR.properties]
 [WARNING] -> added.property
 
 [WARNING] [Missing translations for MessagesBundle_de_DE.properties]
