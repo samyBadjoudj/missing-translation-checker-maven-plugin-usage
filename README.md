@@ -5,7 +5,7 @@ Look at the pom (https://github.com/samyBadjoudj/missing-translation-checker-mav
 to see how it is configured.
 
 
-I have put the intersting part of the mvn clean install output
+I have put the interesting part of the mvn clean install output
 ```
 [WARNING] Can't find/open file /Users/sbadjoudj/tp/missing-translation-checker-maven-plugin-usage/missing-translation-checker-maven-plugin-usage/src/main/resources/MessagesBundle_de_US.properties
 
