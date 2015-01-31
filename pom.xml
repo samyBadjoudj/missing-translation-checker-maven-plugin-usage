@@ -22,6 +22,7 @@
                         <file>${basedir}/src/main/resources/MessagesBundle_de_US.properties</file>
                         <file>${basedir}/src/main/resources/MessagesBundle_fr_FR.properties</file>
                     </files>
+                    <!--<failOnMissingTranslationsFound>true</failOnMissingTranslationsFound>-->
                 </configuration>
                 <executions>
                     <execution>
