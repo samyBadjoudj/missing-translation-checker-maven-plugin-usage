@@ -1,6 +1,7 @@
 # missing-translation-checker-maven-plugin-usage
 Example how to use the maven plugin to find missing translation
 
+```
 
 
 samys-air:missing-translation-checker-maven-plugin-usage sbadjoudj$ mvn clean install
@@ -68,3 +69,5 @@ Tests run: 0, Failures: 0, Errors: 0, Skipped: 0
 [INFO] Finished at: Sat Jan 31 18:14:47 CET 2015
 [INFO] Final Memory: 12M/115M
 [INFO] ------------------------------------------------------------------------
+```
+
